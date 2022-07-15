@@ -1,1 +1,2 @@
-# java-artwork-gradiento
+# Gradiento
+Java artwork for Advanced Programming course final project
